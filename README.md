@@ -105,4 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Created by [Your Name](https://github.com/harsh125op) - feel free to connect on [LinkedIn](https://linkedin.com/in/yourprofile)!
+Created by [Harsh](https://github.com/harsh125op) - feel free to connect on [LinkedIn](https://linkedin.com/in/harsh-mahanti-297772292/)!
